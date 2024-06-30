@@ -26,8 +26,7 @@
     <div class="seat-selection" style="display:none;">
         <h2>Select Seats</h2>
         <div class="seats" id="seatingMap">
-            
-        </div>
+   </div>
         <button onclick="proceedToPayment()">Proceed to Payment</button>
     </div>
 
